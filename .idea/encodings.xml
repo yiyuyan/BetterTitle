@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/run/config/bt-config.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/ksmcbrigade/btt/BetterTitle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/ksmcbrigade/btt/FileUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/ksmcbrigade/btt/config/Config.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
